@@ -1,0 +1,369 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/AE.png" group-title="BRASIL",A&E (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869067
+#EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="Agro + (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/agrotv.png" group-title="BRASIL",Agro + (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869068
+#EXTINF:-1 tvg-id="" tvg-name="All Sports (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/AllSports.png" group-title="BRASIL",All Sports (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869069
+#EXTINF:-1 tvg-id="AMCBrasil.br" tvg-name="AMC (BR)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica.png" group-title="BRASIL",AMC (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869070
+#EXTINF:-1 tvg-id="AnimalPlanetBrasil.br" tvg-name="Animal Planet (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/animalplanet.png" group-title="BRASIL",Animal Planet (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869071
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/arte1.png" group-title="BRASIL",Arte 1 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869072
+#EXTINF:-1 tvg-id="AXNBrazil.us" tvg-name="AXN (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/axn.png" group-title="BRASIL",AXN (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869073
+#EXTINF:-1 tvg-id="BabyTVLatinAmerica.uk" tvg-name="Baby TV (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/Baby_TV.png" group-title="BRASIL",Baby TV (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869074
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/band_news.png" group-title="BRASIL",Band (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869075
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/band_sports.png" group-title="BRASIL",Band News (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869076
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/band_sports.png" group-title="BRASIL",Band Sports (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869077
+#EXTINF:-1 tvg-id="" tvg-name="BIS (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/bis.png" group-title="BRASIL",BIS (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869078
+#EXTINF:-1 tvg-id="" tvg-name="Boas Novas (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/boasnovas.png" group-title="BRASIL",Boas Novas (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869079
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/canal_brasil.webp" group-title="BRASIL",Canal Brasil (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869080
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal Do Boi (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/CanalDoBoi.png" group-title="BRASIL",Canal Do Boi (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869081
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Canal_Futura_2001.webp" group-title="BRASIL",Canal Futura (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869082
+#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="Canal Off (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/canal_off.png" group-title="BRASIL",Canal Off (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869083
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural" tvg-logo="http://caxpar.com:8080/logos/BRASIL/canal_rural.webp" group-title="BRASIL",Canal Rural
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869084
+#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="Canção Nova (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cancao-nova-logo.png" group-title="BRASIL",Canção Nova (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869085
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="Cartoon Network (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/carton_network.png" group-title="BRASIL",Cartoon Network (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869086
+#EXTINF:-1 tvg-id="BoomerangBrasil.us" tvg-name="Cartoonito (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/cartoonito.png" group-title="BRASIL",Cartoonito (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869087
+#EXTINF:-1 tvg-id="CineBrasilTV.br" tvg-name="Cine Brasil (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_brasil.png" group-title="BRASIL",Cine Brasil (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869088
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Cine Pipoca 1" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 1
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869089
+#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="Cine Pipoca 2" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 2
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869090
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 3" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 3
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869091
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 4" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 4
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869092
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 5" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 5
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869093
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 6" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 6
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869094
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 7" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 7
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869095
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 8" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 8
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869096
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 9" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 9
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869097
+#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="Cine Sky 01" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 01
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869098
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 02" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 02
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869099
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 03" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 03
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869100
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 04" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 04
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869101
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 05" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 05
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869102
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 06" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 06
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869103
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 07" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 07
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869104
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 08" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 08
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869105
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 09" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 09
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869106
+#EXTINF:-1 tvg-id="CinemaxBrasil.br" tvg-name="Cinemax (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/cinemax.png" group-title="BRASIL",Cinemax (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869107
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/cnn_espanol.png" group-title="BRASIL",CNN Brasil (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869108
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-name="CNT (BR)" tvg-logo="" group-title="BRASIL",CNT (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869109
+#EXTINF:-1 tvg-id="" tvg-name="Com Brasil (BR)" tvg-logo="" group-title="BRASIL",Com Brasil (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869110
+#EXTINF:-1 tvg-id="" tvg-name="Combate (BR)" tvg-logo="" group-title="BRASIL",Combate (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869111
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.us" tvg-name="Comedy Central (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/comedy_central.png" group-title="BRASIL",Comedy Central (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869112
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="Conmebol Tv 1 (BR)" tvg-logo="" group-title="BRASIL",Conmebol Tv 1 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869113
+#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="Conmebol Tv 2 (BR)" tvg-logo="" group-title="BRASIL",Conmebol Tv 2 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869114
+#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="Conmebol Tv 3 (BR)" tvg-logo="" group-title="BRASIL",Conmebol Tv 3 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869115
+#EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="Conmebol Tv 4 (BR)" tvg-logo="" group-title="BRASIL",Conmebol Tv 4 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869116
+#EXTINF:-1 tvg-id="" tvg-name="Cristo Vivo (BR)" tvg-logo="" group-title="BRASIL",Cristo Vivo (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869117
+#EXTINF:-1 tvg-id="" tvg-name="Curta! (BR)" tvg-logo="" group-title="BRASIL",Curta! (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869118
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1" tvg-logo="http://caxpar.com:8080/logos/BRASIL/DAZN.png" group-title="BRASIL",Dazn 1
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869119
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 4" tvg-logo="http://caxpar.com:8080/logos/BRASIL/DAZN.png" group-title="BRASIL",Dazn 4
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869122
+#EXTINF:-1 tvg-id="DiscoveryChannelBrasil.br" tvg-name="Discovery Channel (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery_channel.png" group-title="BRASIL",Discovery Channel (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869125
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrasil.br" tvg-name="Discovery H&H (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery_HH.png" group-title="BRASIL",Discovery H&H (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869126
+#EXTINF:-1 tvg-id="DiscoveryKidsBrasil.br" tvg-name="Discovery Kids (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery__kids.png" group-title="BRASIL",Discovery Kids (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869127
+#EXTINF:-1 tvg-id="DiscoveryScienceBrasil.us" tvg-name="Discovery Science (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery_science.png" group-title="BRASIL",Discovery Science (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869128
+#EXTINF:-1 tvg-id="DiscoveryTheater.us" tvg-name="Discovery Theater (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery_theater.png" group-title="BRASIL",Discovery Theater (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869129
+#EXTINF:-1 tvg-id="DiscoveryTurboBrasil.br" tvg-name="Discovery Turbo (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery_turbo.png" group-title="BRASIL",Discovery Turbo (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869130
+#EXTINF:-1 tvg-id="DiscoveryWorldBrasil.br" tvg-name="Discovery World (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery_word.png" group-title="BRASIL",Discovery World (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869131
+#EXTINF:-1 tvg-id="DisneyChannelBrasil.br" tvg-name="Disney Channel (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/disney_channel.png" group-title="BRASIL",Disney Channel (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869132
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/disney_junior.png" group-title="BRASIL",Disney Jr (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869133
+#EXTINF:-1 tvg-id="EBrasil.br" tvg-name="E! (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/e_entertaiment.png" group-title="BRASIL",E! (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869134
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 1
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869135
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 10" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 10
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869136
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 2
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869137
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 3
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869138
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 4
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869139
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 5
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869140
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 6
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869141
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 7" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 7
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869142
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 8" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 8
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869143
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 9" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 9
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869144
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="Espn (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/espn1_mx.png" group-title="BRASIL",Espn (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869145
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/espn2_mx.png" group-title="BRASIL",Espn 2 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869146
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3 (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/espn3_mx.png" group-title="BRASIL",Espn 3 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869147
+#EXTINF:-1 tvg-id="" tvg-name="Espn 4 (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/espn4_mx.png" group-title="BRASIL",Espn 4 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869148
+#EXTINF:-1 tvg-id="" tvg-name="Espn Extra (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/espnplus_mx.PNG" group-title="BRASIL",Espn Extra (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869149
+#EXTINF:-1 tvg-id="" tvg-name="Esportes Interativo (BR)" tvg-logo="" group-title="BRASIL",Esportes Interativo (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869150
+#EXTINF:-1 tvg-id="" tvg-name="Estádio Tnt Sports 1 (BR)" tvg-logo="http://caxpar.com:8080/logos/ARGENTINA/TNTSports.png" group-title="BRASIL",Estádio Tnt Sports 1 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869151
+#EXTINF:-1 tvg-id="" tvg-name="Estádio Tnt Sports 2 (BR)" tvg-logo="http://caxpar.com:8080/logos/ARGENTINA/TNTSports.png" group-title="BRASIL",Estádio Tnt Sports 2 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869152
+#EXTINF:-1 tvg-id="" tvg-name="Estádio Tnt Sports 3 (BR)" tvg-logo="http://caxpar.com:8080/logos/ARGENTINA/TNTSports.png" group-title="BRASIL",Estádio Tnt Sports 3 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869153
+#EXTINF:-1 tvg-id="" tvg-name="Estádio Tnt Sports 4 (BR)" tvg-logo="http://caxpar.com:8080/logos/ARGENTINA/TNTSports.png" group-title="BRASIL",Estádio Tnt Sports 4 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869154
+#EXTINF:-1 tvg-id="" tvg-name="Estádio Tnt Sports 5 (BR)" tvg-logo="http://caxpar.com:8080/logos/ARGENTINA/TNTSports.png" group-title="BRASIL",Estádio Tnt Sports 5 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869155
+#EXTINF:-1 tvg-id="" tvg-name="Euronews (BR)" tvg-logo="http://caxpar.com:8080/logos/ITALIA/Euronews.png" group-title="BRASIL",Euronews (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869156
+#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="Fashion (BR)" tvg-logo="" group-title="BRASIL",Fashion (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869157
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish Tv (BR)" tvg-logo="" group-title="BRASIL",Fish Tv (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869158
+#EXTINF:-1 tvg-id="FoodNetworkBrazil.br" tvg-name="Food Network (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/food_network.png" group-title="BRASIL",Food Network (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869159
+#EXTINF:-1 tvg-id="FoxSports2Brasil.br" tvg-name="Fox Sports 2 (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/fox_sports2_sur.png" group-title="BRASIL",Fox Sports 2 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869160
+#EXTINF:-1 tvg-id="FXBrasil.br" tvg-name="FX (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/fx.png" group-title="BRASIL",FX (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869161
+#EXTINF:-1 tvg-id="" tvg-name="Gazeta SP (BR)" tvg-logo="" group-title="BRASIL",Gazeta SP (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869162
+#EXTINF:-1 tvg-id="" tvg-name="Globo Mt Tv Centro America (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/globo.webp" group-title="BRASIL",Globo Mt Tv Centro America (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869180
+#EXTINF:-1 tvg-id="" tvg-name="Globo News (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/globo.webp" group-title="BRASIL",Globo News (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869182
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rj Capital (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/globo.webp" group-title="BRASIL",Globo Rj Capital (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869186
+#EXTINF:-1 tvg-id="" tvg-name="Globosat (BR)" tvg-logo="" group-title="BRASIL",Globosat (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869203
+#EXTINF:-1 tvg-id="" tvg-name="Gloob (BR)" tvg-logo="" group-title="BRASIL",Gloob (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869204
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho (BR)" tvg-logo="" group-title="BRASIL",Gloobinho (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869205
+#EXTINF:-1 tvg-id="" tvg-name="GNT (BR)" tvg-logo="" group-title="BRASIL",GNT (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869206
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1 (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo.png" group-title="BRASIL",HBO 1 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869207
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo2.png" group-title="BRASIL",HBO 2 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869208
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_family.png" group-title="BRASIL",HBO Family (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869209
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_mundi.png" group-title="BRASIL",HBO Mundi (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869210
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_plus.png" group-title="BRASIL",HBO Plus (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869211
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_pop.png" group-title="BRASIL",HBO Pop (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869212
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_signature.png" group-title="BRASIL",HBO Signature (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869213
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_xtreme.png" group-title="BRASIL",HBO Xtreme (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869214
+#EXTINF:-1 tvg-id="" tvg-name="HGTV (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hgtv.png" group-title="BRASIL",HGTV (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869215
+#EXTINF:-1 tvg-id="" tvg-name="History 2 (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/h2.png" group-title="BRASIL",History 2 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869216
+#EXTINF:-1 tvg-id="" tvg-name="History Channel (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/history_channel.png" group-title="BRASIL",History Channel (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869217
+#EXTINF:-1 tvg-id="" tvg-name="Investigação Discovery (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/ID.png" group-title="BRASIL",Investigação Discovery (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869218
+#EXTINF:-1 tvg-id="" tvg-name="Iurd Tv (BR)" tvg-logo="" group-title="BRASIL",Iurd Tv (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869219
+#EXTINF:-1 tvg-id="" tvg-name="Jp News (BR)" tvg-logo="" group-title="BRASIL",Jp News (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869220
+#EXTINF:-1 tvg-id="" tvg-name="Kpoptv Play (BR)" tvg-logo="" group-title="BRASIL",Kpoptv Play (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869221
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/lifetime.png" group-title="BRASIL",Lifetime (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869222
+#EXTINF:-1 tvg-id="" tvg-name="Megapix (BR)" tvg-logo="" group-title="BRASIL",Megapix (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869223
+#EXTINF:-1 tvg-id="" tvg-name="Mtv (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/mtv.png" group-title="BRASIL",Mtv (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869224
+#EXTINF:-1 tvg-id="" tvg-name="Multishow (BR)" tvg-logo="" group-title="BRASIL",Multishow (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869225
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil (BR)" tvg-logo="" group-title="BRASIL",Music Box Brazil (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869226
+#EXTINF:-1 tvg-id="" tvg-name="Mytime Movie Network Brazil (BR)" tvg-logo="" group-title="BRASIL",Mytime Movie Network Brazil (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869227
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo Wild (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/natgeo_wild.png" group-title="BRASIL",Natgeo Wild (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869228
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/national_geographic.png" group-title="BRASIL",National Geographic (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869229
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/nick_jr.png" group-title="BRASIL",Nick Jr (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869230
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/Nickelodeon.png" group-title="BRASIL",Nickelodeon (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869231
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo (BR)" tvg-logo="" group-title="BRASIL",Novo Tempo (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869232
+#EXTINF:-1 tvg-id="" tvg-name="Paramount (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/paramount_channel.png" group-title="BRASIL",Paramount (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869233
+#EXTINF:-1 tvg-id="" tvg-name="Polishop 2 TV (BR)" tvg-logo="" group-title="BRASIL",Polishop 2 TV (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869234
+#EXTINF:-1 tvg-id="" tvg-name="Polishop TV (BR)" tvg-logo="" group-title="BRASIL",Polishop TV (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869235
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/permiere.png" group-title="BRASIL",Premiere 3 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869237
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/permiere.png" group-title="BRASIL",Premiere 4 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869238
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/permiere.png" group-title="BRASIL",Premiere 5 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869239
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/permiere.png" group-title="BRASIL",Premiere 7 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869241
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/permiere.png" group-title="BRASIL",Premiere Clubes (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869242
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Prime%20Box%20Brazil.webp" group-title="BRASIL",Prime Box Brazil (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869243
+#EXTINF:-1 tvg-id="" tvg-name="Record News (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/record.webp" group-title="BRASIL",Record News (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869249
+#EXTINF:-1 tvg-id="" tvg-name="Record RJ (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/record.webp" group-title="BRASIL",Record RJ (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869250
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Rede%20Brasil.webp" group-title="BRASIL",Rede Brasil (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869252
+#EXTINF:-1 tvg-id="" tvg-name="Rede Família (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Rede%20Fam%C3%ADlia.png" group-title="BRASIL",Rede Família (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869253
+#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Rede_Vanguarda.png" group-title="BRASIL",Rede Gospel (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869254
+#EXTINF:-1 tvg-id="" tvg-name="Rede Super (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Rede_Vanguarda.png" group-title="BRASIL",Rede Super (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869255
+#EXTINF:-1 tvg-id="" tvg-name="Rede Tv! (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Rede_Vanguarda.png" group-title="BRASIL",Rede Tv! (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869256
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Rede_Vanguarda.png" group-title="BRASIL",Rede Vida (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869257
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ (BR)" tvg-logo="" group-title="BRASIL",SBT RJ (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869262
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel (BR)" tvg-logo="" group-title="BRASIL",Sony Channel (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869270
+#EXTINF:-1 tvg-id="" tvg-name="Space (BR)" tvg-logo="" group-title="BRASIL",Space (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869271
+#EXTINF:-1 tvg-id="" tvg-name="SporTV (BR)" tvg-logo="" group-title="BRASIL",SporTV (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869272
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 (BR)" tvg-logo="" group-title="BRASIL",SporTV 2 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869273
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 (BR)" tvg-logo="" group-title="BRASIL",SporTV 3 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869274
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/start_channel.png" group-title="BRASIL",Star Channel (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869275
+#EXTINF:-1 tvg-id="" tvg-name="Star Life (BR)" tvg-logo="" group-title="BRASIL",Star Life (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869276
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal (BR)" tvg-logo="" group-title="BRASIL",Studio Universal (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869277
+#EXTINF:-1 tvg-id="" tvg-name="Syfy (BR)" tvg-logo="" group-title="BRASIL",Syfy (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869278
+#EXTINF:-1 tvg-id="" tvg-name="TBS (BR)" tvg-logo="" group-title="BRASIL",TBS (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869279
+#EXTINF:-1 tvg-id="" tvg-name="TCM (BR)" tvg-logo="" group-title="BRASIL",TCM (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869280
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action (BR)" tvg-logo="" group-title="BRASIL",Telecine Action (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869281
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult (BR)" tvg-logo="" group-title="BRASIL",Telecine Cult (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869282
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun (BR)" tvg-logo="" group-title="BRASIL",Telecine Fun (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869283
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca (BR)" tvg-logo="" group-title="BRASIL",Telecine Pipoca (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869284
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium (BR)" tvg-logo="" group-title="BRASIL",Telecine Premium (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869285
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch (BR)" tvg-logo="" group-title="BRASIL",Telecine Touch (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869286
+#EXTINF:-1 tvg-id="" tvg-name="Terra Viva (BR)" tvg-logo="" group-title="BRASIL",Terra Viva (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869287
+#EXTINF:-1 tvg-id="" tvg-name="TLC (BR)" tvg-logo="" group-title="BRASIL",TLC (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869288
+#EXTINF:-1 tvg-id="" tvg-name="TNT (BR)" tvg-logo="" group-title="BRASIL",TNT (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869289
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series (BR)" tvg-logo="" group-title="BRASIL",TNT Series (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869290
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast (BR)" tvg-logo="" group-title="BRASIL",Tooncast (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869291
+#EXTINF:-1 tvg-id="" tvg-name="Trutv (BR)" tvg-logo="" group-title="BRASIL",Trutv (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869292
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida (BR)" tvg-logo="" group-title="BRASIL",TV Aparecida (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869293
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil (BR)" tvg-logo="" group-title="BRASIL",TV Brasil (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869294
+#EXTINF:-1 tvg-id="" tvg-name="TV Camar (BR)" tvg-logo="" group-title="BRASIL",TV Camar (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869295
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura (BR)" tvg-logo="" group-title="BRASIL",TV Cultura (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869296
+#EXTINF:-1 tvg-id="" tvg-name="TV Escola (BR)" tvg-logo="" group-title="BRASIL",TV Escola (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869297
+#EXTINF:-1 tvg-id="" tvg-name="TV Espaço Espirita (BR)" tvg-logo="" group-title="BRASIL",TV Espaço Espirita (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869298
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar (BR)" tvg-logo="" group-title="BRASIL",TV Evangelizar (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869299
+#EXTINF:-1 tvg-id="" tvg-name="TV Geral (BR)" tvg-logo="" group-title="BRASIL",TV Geral (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869300
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno (BR)" tvg-logo="" group-title="BRASIL",TV Pai Eterno (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869302
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum (BR)" tvg-logo="" group-title="BRASIL",TV Ra Tim Bum (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869303
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado (BR)" tvg-logo="" group-title="BRASIL",TV Senado (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869304
+#EXTINF:-1 tvg-id="" tvg-name="TVe Brasil (BR)" tvg-logo="" group-title="BRASIL",TVe Brasil (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869305
+#EXTINF:-1 tvg-id="" tvg-name="Universal Tv (BR)" tvg-logo="" group-title="BRASIL",Universal Tv (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869306
+#EXTINF:-1 tvg-id="" tvg-name="VH1 (BR)" tvg-logo="" group-title="BRASIL",VH1 (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869307
+#EXTINF:-1 tvg-id="" tvg-name="Viva (BR)" tvg-logo="" group-title="BRASIL",Viva (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869308
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/warner_cahnnel.png" group-title="BRASIL",Warner Channel (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869309
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo (BR)" tvg-logo="" group-title="BRASIL",Woohoo (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869310
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo (BR)" tvg-logo="" group-title="BRASIL",Zoomoo (BR)
+http://ultraxtreme.net:8000/Francisco/Francisco2022/869311
