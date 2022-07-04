@@ -1,367 +1,866 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/AE.png" group-title="BRASIL",A&E (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869067
-#EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="Agro + (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/agrotv.png" group-title="BRASIL",Agro + (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869068
-#EXTINF:-1 tvg-id="" tvg-name="All Sports (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/AllSports.png" group-title="BRASIL",All Sports (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869069
-#EXTINF:-1 tvg-id="AMCBrasil.br" tvg-name="AMC (BR)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/amc_latinoamerica.png" group-title="BRASIL",AMC (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869070
-#EXTINF:-1 tvg-id="AnimalPlanetBrasil.br" tvg-name="Animal Planet (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/animalplanet.png" group-title="BRASIL",Animal Planet (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869071
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/arte1.png" group-title="BRASIL",Arte 1 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869072
-#EXTINF:-1 tvg-id="AXNBrazil.us" tvg-name="AXN (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/axn.png" group-title="BRASIL",AXN (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869073
-#EXTINF:-1 tvg-id="BabyTVLatinAmerica.uk" tvg-name="Baby TV (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/Baby_TV.png" group-title="BRASIL",Baby TV (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869074
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/band_news.png" group-title="BRASIL",Band (BR)
-http://187.33.200.246:8888/http/005
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/band_sports.png" group-title="BRASIL",Band News (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869076
-#EXTINF:-1 tvg-id="" tvg-name="Band Sports (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/band_sports.png" group-title="BRASIL",Band Sports (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869077
-#EXTINF:-1 tvg-id="" tvg-name="BIS (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/bis.png" group-title="BRASIL",BIS (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869078
-#EXTINF:-1 tvg-id="" tvg-name="Boas Novas (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/boasnovas.png" group-title="BRASIL",Boas Novas (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869079
-#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/canal_brasil.webp" group-title="BRASIL",Canal Brasil (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869080
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal Do Boi (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/CanalDoBoi.png" group-title="BRASIL",Canal Do Boi (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869081
-#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Canal_Futura_2001.webp" group-title="BRASIL",Canal Futura (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869082
-#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="Canal Off (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/canal_off.png" group-title="BRASIL",Canal Off (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869083
-#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural" tvg-logo="http://caxpar.com:8080/logos/BRASIL/canal_rural.webp" group-title="BRASIL",Canal Rural
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869084
-#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="Canção Nova (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cancao-nova-logo.png" group-title="BRASIL",Canção Nova (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869085
-#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="Cartoon Network (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/carton_network.png" group-title="BRASIL",Cartoon Network (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869086
-#EXTINF:-1 tvg-id="BoomerangBrasil.us" tvg-name="Cartoonito (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/cartoonito.png" group-title="BRASIL",Cartoonito (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869087
-#EXTINF:-1 tvg-id="CineBrasilTV.br" tvg-name="Cine Brasil (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_brasil.png" group-title="BRASIL",Cine Brasil (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869088
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Cine Pipoca 1" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 1
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869089
-#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="Cine Pipoca 2" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 2
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869090
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 3" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 3
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869091
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 4" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 4
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869092
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 5" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 5
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869093
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 6" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 6
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869094
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 7" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 7
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869095
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 8" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 8
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869096
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 9" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Telecine_Pipoca_.png" group-title="BRASIL",Cine Pipoca 9
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869097
-#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="Cine Sky 01" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 01
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869098
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 02" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 02
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869099
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 03" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 03
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869100
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 04" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 04
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869101
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 05" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 05
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869102
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 06" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 06
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869103
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 07" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 07
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869104
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 08" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 08
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869105
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 09" tvg-logo="http://caxpar.com:8080/logos/BRASIL/cine_sky.webp" group-title="BRASIL",Cine Sky 09
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869106
-#EXTINF:-1 tvg-id="CinemaxBrasil.br" tvg-name="Cinemax (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/cinemax.png" group-title="BRASIL",Cinemax (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869107
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/cnn_espanol.png" group-title="BRASIL",CNN Brasil (BR)
-http://212.102.60.39:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/2022/07/04/03/20/43-05005.ts?token=RED_79Edxvj-NIm91NEpmJm2kQ%3D%3D%2C1656801488.7742152032
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-name="CNT (BR)" tvg-logo="" group-title="BRASIL",CNT (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869109
-#EXTINF:-1 tvg-id="" tvg-name="Com Brasil (BR)" tvg-logo="" group-title="BRASIL",Com Brasil (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869110
-#EXTINF:-1 tvg-id="" tvg-name="Combate (BR)" tvg-logo="" group-title="BRASIL",Combate (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869111
-#EXTINF:-1 tvg-id="ComedyCentralBrazil.us" tvg-name="Comedy Central (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/comedy_central.png" group-title="BRASIL",Comedy Central (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869112
-#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="Conmebol Tv 1 (BR)" tvg-logo="" group-title="BRASIL",Conmebol Tv 1 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869113
-#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="Conmebol Tv 2 (BR)" tvg-logo="" group-title="BRASIL",Conmebol Tv 2 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869114
-#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="Conmebol Tv 3 (BR)" tvg-logo="" group-title="BRASIL",Conmebol Tv 3 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869115
-#EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="Conmebol Tv 4 (BR)" tvg-logo="" group-title="BRASIL",Conmebol Tv 4 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869116
-#EXTINF:-1 tvg-id="" tvg-name="Cristo Vivo (BR)" tvg-logo="" group-title="BRASIL",Cristo Vivo (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869117
-#EXTINF:-1 tvg-id="" tvg-name="Curta! (BR)" tvg-logo="" group-title="BRASIL",Curta! (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869118
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 1" tvg-logo="http://caxpar.com:8080/logos/BRASIL/DAZN.png" group-title="BRASIL",Dazn 1
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869119
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 4" tvg-logo="http://caxpar.com:8080/logos/BRASIL/DAZN.png" group-title="BRASIL",Dazn 4
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869122
-#EXTINF:-1 tvg-id="DiscoveryChannelBrasil.br" tvg-name="Discovery Channel (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery_channel.png" group-title="BRASIL",Discovery Channel (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869125
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrasil.br" tvg-name="Discovery H&H (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery_HH.png" group-title="BRASIL",Discovery H&H (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869126
-#EXTINF:-1 tvg-id="DiscoveryKidsBrasil.br" tvg-name="Discovery Kids (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery__kids.png" group-title="BRASIL",Discovery Kids (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869127
-#EXTINF:-1 tvg-id="DiscoveryScienceBrasil.us" tvg-name="Discovery Science (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery_science.png" group-title="BRASIL",Discovery Science (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869128
-#EXTINF:-1 tvg-id="DiscoveryTheater.us" tvg-name="Discovery Theater (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery_theater.png" group-title="BRASIL",Discovery Theater (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869129
-#EXTINF:-1 tvg-id="DiscoveryTurboBrasil.br" tvg-name="Discovery Turbo (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery_turbo.png" group-title="BRASIL",Discovery Turbo (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869130
-#EXTINF:-1 tvg-id="DiscoveryWorldBrasil.br" tvg-name="Discovery World (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/discovery_word.png" group-title="BRASIL",Discovery World (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869131
-#EXTINF:-1 tvg-id="DisneyChannelBrasil.br" tvg-name="Disney Channel (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/disney_channel.png" group-title="BRASIL",Disney Channel (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869132
-#EXTINF:-1 tvg-id="" tvg-name="Disney Jr (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/disney_junior.png" group-title="BRASIL",Disney Jr (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869133
-#EXTINF:-1 tvg-id="EBrasil.br" tvg-name="E! (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/e_entertaiment.png" group-title="BRASIL",E! (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869134
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 1
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869135
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 10" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 10
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869136
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 2
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869137
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 3
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869138
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 4
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869139
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 5
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869140
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 6
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869141
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 7" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 7
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869142
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 8" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 8
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869143
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 9" tvg-logo="http://caxpar.com:8080/logos/logos_canales/eleven_sports.png" group-title="BRASIL",Eleven Sports 9
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869144
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="Espn (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/espn1_mx.png" group-title="BRASIL",Espn (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869145
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2 (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/espn2_mx.png" group-title="BRASIL",Espn 2 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869146
-#EXTINF:-1 tvg-id="" tvg-name="Espn 3 (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/espn3_mx.png" group-title="BRASIL",Espn 3 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869147
-#EXTINF:-1 tvg-id="" tvg-name="Espn 4 (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/espn4_mx.png" group-title="BRASIL",Espn 4 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869148
-#EXTINF:-1 tvg-id="" tvg-name="Espn Extra (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/espnplus_mx.PNG" group-title="BRASIL",Espn Extra (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869149
-#EXTINF:-1 tvg-id="" tvg-name="Esportes Interativo (BR)" tvg-logo="" group-title="BRASIL",Esportes Interativo (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869150
-#EXTINF:-1 tvg-id="" tvg-name="Estádio Tnt Sports 1 (BR)" tvg-logo="http://caxpar.com:8080/logos/ARGENTINA/TNTSports.png" group-title="BRASIL",Estádio Tnt Sports 1 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869151
-#EXTINF:-1 tvg-id="" tvg-name="Estádio Tnt Sports 2 (BR)" tvg-logo="http://caxpar.com:8080/logos/ARGENTINA/TNTSports.png" group-title="BRASIL",Estádio Tnt Sports 2 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869152
-#EXTINF:-1 tvg-id="" tvg-name="Estádio Tnt Sports 3 (BR)" tvg-logo="http://caxpar.com:8080/logos/ARGENTINA/TNTSports.png" group-title="BRASIL",Estádio Tnt Sports 3 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869153
-#EXTINF:-1 tvg-id="" tvg-name="Estádio Tnt Sports 4 (BR)" tvg-logo="http://caxpar.com:8080/logos/ARGENTINA/TNTSports.png" group-title="BRASIL",Estádio Tnt Sports 4 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869154
-#EXTINF:-1 tvg-id="" tvg-name="Estádio Tnt Sports 5 (BR)" tvg-logo="http://caxpar.com:8080/logos/ARGENTINA/TNTSports.png" group-title="BRASIL",Estádio Tnt Sports 5 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869155
-#EXTINF:-1 tvg-id="" tvg-name="Euronews (BR)" tvg-logo="http://caxpar.com:8080/logos/ITALIA/Euronews.png" group-title="BRASIL",Euronews (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869156
-#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="Fashion (BR)" tvg-logo="" group-title="BRASIL",Fashion (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869157
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish Tv (BR)" tvg-logo="" group-title="BRASIL",Fish Tv (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869158
-#EXTINF:-1 tvg-id="FoodNetworkBrazil.br" tvg-name="Food Network (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/food_network.png" group-title="BRASIL",Food Network (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869159
-#EXTINF:-1 tvg-id="FoxSports2Brasil.br" tvg-name="Fox Sports 2 (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/fox_sports2_sur.png" group-title="BRASIL",Fox Sports 2 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869160
-#EXTINF:-1 tvg-id="FXBrasil.br" tvg-name="FX (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/fx.png" group-title="BRASIL",FX (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869161
-#EXTINF:-1 tvg-id="" tvg-name="Gazeta SP (BR)" tvg-logo="" group-title="BRASIL",Gazeta SP (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869162
-#EXTINF:-1 tvg-id="" tvg-name="Globo News (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/globo.webp" group-title="BRASIL",Globo News (BR)
-http://212.102.60.39:2200/BR/Globo_News_HD-br/index.m3u8?token=RED_79Edxvj-NIm91NEpmJm2kQ==,1656801488.7742152032
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/globo.webp" group-title="BRASIL",Globo Rj Capital (BR)
-http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globosat (BR)" tvg-logo="" group-title="BRASIL",Globosat (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869203
-#EXTINF:-1 tvg-id="" tvg-name="Gloob (BR)" tvg-logo="" group-title="BRASIL",Gloob (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869204
-#EXTINF:-1 tvg-id="" tvg-name="Gloobinho (BR)" tvg-logo="" group-title="BRASIL",Gloobinho (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869205
-#EXTINF:-1 tvg-id="" tvg-name="GNT (BR)" tvg-logo="" group-title="BRASIL",GNT (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869206
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1 (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo.png" group-title="BRASIL",HBO 1 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869207
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo2.png" group-title="BRASIL",HBO 2 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869208
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_family.png" group-title="BRASIL",HBO Family (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869209
-#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_mundi.png" group-title="BRASIL",HBO Mundi (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869210
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_plus.png" group-title="BRASIL",HBO Plus (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869211
-#EXTINF:-1 tvg-id="" tvg-name="HBO Pop (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_pop.png" group-title="BRASIL",HBO Pop (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869212
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_signature.png" group-title="BRASIL",HBO Signature (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869213
-#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hbo_xtreme.png" group-title="BRASIL",HBO Xtreme (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869214
-#EXTINF:-1 tvg-id="" tvg-name="HGTV (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/hgtv.png" group-title="BRASIL",HGTV (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869215
-#EXTINF:-1 tvg-id="" tvg-name="History 2 (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/h2.png" group-title="BRASIL",History 2 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869216
-#EXTINF:-1 tvg-id="" tvg-name="History Channel (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/history_channel.png" group-title="BRASIL",History Channel (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869217
-#EXTINF:-1 tvg-id="" tvg-name="Investigação Discovery (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/ID.png" group-title="BRASIL",Investigação Discovery (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869218
-#EXTINF:-1 tvg-id="" tvg-name="Iurd Tv (BR)" tvg-logo="" group-title="BRASIL",Iurd Tv (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869219
-#EXTINF:-1 tvg-id="" tvg-name="Jp News (BR)" tvg-logo="" group-title="BRASIL",Jp News (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869220
-#EXTINF:-1 tvg-id="" tvg-name="Kpoptv Play (BR)" tvg-logo="" group-title="BRASIL",Kpoptv Play (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869221
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/lifetime.png" group-title="BRASIL",Lifetime (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869222
-#EXTINF:-1 tvg-id="" tvg-name="Megapix (BR)" tvg-logo="" group-title="BRASIL",Megapix (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869223
-#EXTINF:-1 tvg-id="" tvg-name="Mtv (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/mtv.png" group-title="BRASIL",Mtv (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869224
-#EXTINF:-1 tvg-id="" tvg-name="Multishow (BR)" tvg-logo="" group-title="BRASIL",Multishow (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869225
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil (BR)" tvg-logo="" group-title="BRASIL",Music Box Brazil (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869226
-#EXTINF:-1 tvg-id="" tvg-name="Mytime Movie Network Brazil (BR)" tvg-logo="" group-title="BRASIL",Mytime Movie Network Brazil (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869227
-#EXTINF:-1 tvg-id="" tvg-name="Natgeo Wild (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/natgeo_wild.png" group-title="BRASIL",Natgeo Wild (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869228
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/national_geographic.png" group-title="BRASIL",National Geographic (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869229
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/nick_jr.png" group-title="BRASIL",Nick Jr (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869230
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/Nickelodeon.png" group-title="BRASIL",Nickelodeon (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869231
-#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo (BR)" tvg-logo="" group-title="BRASIL",Novo Tempo (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869232
-#EXTINF:-1 tvg-id="" tvg-name="Paramount (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/paramount_channel.png" group-title="BRASIL",Paramount (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869233
-#EXTINF:-1 tvg-id="" tvg-name="Polishop 2 TV (BR)" tvg-logo="" group-title="BRASIL",Polishop 2 TV (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869234
-#EXTINF:-1 tvg-id="" tvg-name="Polishop TV (BR)" tvg-logo="" group-title="BRASIL",Polishop TV (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869235
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/permiere.png" group-title="BRASIL",Premiere 3 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869237
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/permiere.png" group-title="BRASIL",Premiere 4 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869238
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/permiere.png" group-title="BRASIL",Premiere 5 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869239
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/permiere.png" group-title="BRASIL",Premiere 7 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869241
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/permiere.png" group-title="BRASIL",Premiere Clubes (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869242
-#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Prime%20Box%20Brazil.webp" group-title="BRASIL",Prime Box Brazil (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869243
-#EXTINF:-1 tvg-id="" tvg-name="Record News (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/record.webp" group-title="BRASIL",Record News (BR)
-https://rnw-rn.otteravision.com:443
-#EXTINF:-1 tvg-id="" tvg-name="Record RJ (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/record.webp" group-title="BRASIL",Record RJ (BR)
-https://sinalpublico.com:443
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Rede%20Brasil.webp" group-title="BRASIL",Rede Brasil (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869252
-#EXTINF:-1 tvg-id="" tvg-name="Rede Família (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Rede%20Fam%C3%ADlia.png" group-title="BRASIL",Rede Família (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869253
-#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Rede_Vanguarda.png" group-title="BRASIL",Rede Gospel (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869254
-#EXTINF:-1 tvg-id="" tvg-name="Rede Super (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Rede_Vanguarda.png" group-title="BRASIL",Rede Super (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869255
-#EXTINF:-1 tvg-id="" tvg-name="Rede Tv! (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Rede_Vanguarda.png" group-title="BRASIL",Rede Tv! (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869256
-#EXTINF:-1 tvg-id="" tvg-name="Rede Vida (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Rede_Vanguarda.png" group-title="BRASIL",Rede Vida (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869257
-#EXTINF:-1 tvg-id="" tvg-name="SBT RJ (BR)" tvg-logo="" group-title="BRASIL",SBT RJ (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869262
-#EXTINF:-1 tvg-id="" tvg-name="Sony Channel (BR)" tvg-logo="" group-title="BRASIL",Sony Channel (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869270
-#EXTINF:-1 tvg-id="" tvg-name="Space (BR)" tvg-logo="" group-title="BRASIL",Space (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869271
-#EXTINF:-1 tvg-id="" tvg-name="SporTV (BR)" tvg-logo="" group-title="BRASIL",SporTV (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869272
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 (BR)" tvg-logo="" group-title="BRASIL",SporTV 2 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869273
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 (BR)" tvg-logo="" group-title="BRASIL",SporTV 3 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869274
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/start_channel.png" group-title="BRASIL",Star Channel (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869275
-#EXTINF:-1 tvg-id="" tvg-name="Star Life (BR)" tvg-logo="" group-title="BRASIL",Star Life (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869276
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal (BR)" tvg-logo="" group-title="BRASIL",Studio Universal (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869277
-#EXTINF:-1 tvg-id="" tvg-name="Syfy (BR)" tvg-logo="" group-title="BRASIL",Syfy (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869278
-#EXTINF:-1 tvg-id="" tvg-name="TBS (BR)" tvg-logo="" group-title="BRASIL",TBS (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869279
-#EXTINF:-1 tvg-id="" tvg-name="TCM (BR)" tvg-logo="" group-title="BRASIL",TCM (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869280
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action (BR)" tvg-logo="" group-title="BRASIL",Telecine Action (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869281
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult (BR)" tvg-logo="" group-title="BRASIL",Telecine Cult (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869282
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun (BR)" tvg-logo="" group-title="BRASIL",Telecine Fun (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869283
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca (BR)" tvg-logo="" group-title="BRASIL",Telecine Pipoca (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869284
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium (BR)" tvg-logo="" group-title="BRASIL",Telecine Premium (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869285
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch (BR)" tvg-logo="" group-title="BRASIL",Telecine Touch (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869286
-#EXTINF:-1 tvg-id="" tvg-name="Terra Viva (BR)" tvg-logo="" group-title="BRASIL",Terra Viva (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869287
-#EXTINF:-1 tvg-id="" tvg-name="TLC (BR)" tvg-logo="" group-title="BRASIL",TLC (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869288
-#EXTINF:-1 tvg-id="" tvg-name="TNT (BR)" tvg-logo="" group-title="BRASIL",TNT (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869289
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series (BR)" tvg-logo="" group-title="BRASIL",TNT Series (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869290
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast (BR)" tvg-logo="" group-title="BRASIL",Tooncast (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869291
-#EXTINF:-1 tvg-id="" tvg-name="Trutv (BR)" tvg-logo="" group-title="BRASIL",Trutv (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869292
-#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida (BR)" tvg-logo="" group-title="BRASIL",TV Aparecida (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869293
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil (BR)" tvg-logo="" group-title="BRASIL",TV Brasil (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869294
-#EXTINF:-1 tvg-id="" tvg-name="TV Camar (BR)" tvg-logo="" group-title="BRASIL",TV Camar (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869295
-#EXTINF:-1 tvg-id="" tvg-name="TV Cultura (BR)" tvg-logo="" group-title="BRASIL",TV Cultura (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869296
-#EXTINF:-1 tvg-id="" tvg-name="TV Escola (BR)" tvg-logo="" group-title="BRASIL",TV Escola (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869297
-#EXTINF:-1 tvg-id="" tvg-name="TV Espaço Espirita (BR)" tvg-logo="" group-title="BRASIL",TV Espaço Espirita (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869298
-#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar (BR)" tvg-logo="" group-title="BRASIL",TV Evangelizar (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869299
-#EXTINF:-1 tvg-id="" tvg-name="TV Geral (BR)" tvg-logo="" group-title="BRASIL",TV Geral (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869300
-#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno (BR)" tvg-logo="" group-title="BRASIL",TV Pai Eterno (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869302
-#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum (BR)" tvg-logo="" group-title="BRASIL",TV Ra Tim Bum (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869303
-#EXTINF:-1 tvg-id="" tvg-name="TV Senado (BR)" tvg-logo="" group-title="BRASIL",TV Senado (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869304
-#EXTINF:-1 tvg-id="" tvg-name="TVe Brasil (BR)" tvg-logo="" group-title="BRASIL",TVe Brasil (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869305
-#EXTINF:-1 tvg-id="" tvg-name="Universal Tv (BR)" tvg-logo="" group-title="BRASIL",Universal Tv (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869306
-#EXTINF:-1 tvg-id="" tvg-name="VH1 (BR)" tvg-logo="" group-title="BRASIL",VH1 (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869307
-#EXTINF:-1 tvg-id="" tvg-name="Viva (BR)" tvg-logo="" group-title="BRASIL",Viva (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869308
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel (BR)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/warner_cahnnel.png" group-title="BRASIL",Warner Channel (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869309
-#EXTINF:-1 tvg-id="" tvg-name="Woohoo (BR)" tvg-logo="" group-title="BRASIL",Woohoo (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869310
-#EXTINF:-1 tvg-id="" tvg-name="Zoomoo (BR)" tvg-logo="" group-title="BRASIL",Zoomoo (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869311
+#EXTINF:-1 ,Unknown_1
+http://tv.factoryiptv.com:80/anaveloso/teste20/40263
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/FWygjkw.jpg",CNN BRASIL HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/65039
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/FWygjkw.jpg",CNN BRASIL
+http://tv.factoryiptv.com:80/anaveloso/teste20/65040
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/7FamS9P.png",Woohoo HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36899
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/mXuzJsn.png",MTV 00s HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36900
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/CHaWCed.png",Telecine Cult HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36901
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/zQM47Cf.png",TLC HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36902
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/2lKk7Jw.png",Syfy HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36903
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/WnUlcx6.png",Studio Universal HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36904
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 7 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36905
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 6 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36906
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/ZjLSLiY.png",Nick HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36907
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/6vVmJJf.png",Nick Jr. HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36908
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/U6Rgjqs.png",MTV HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36910
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/1hIuQoH.png",HBO POP HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36911
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/HeJPYl6.png",HBO Xtreme HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36912
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/RgOfJYg.png",HBO Mundi HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36913
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/tsFolbI.png",Lifetime HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36914
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/mFDFUjt.png",Gloob HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36915
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://i.imgur.com/GIbRutN.png",GloboNews HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36917
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/NoyRFaw.png",Star Life HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36918
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/bcdE7nj.png",Food Network HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36919
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/yN8C90X.png",E! HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36920
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/4KeieN7.png",Disney Channel HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36921
+#EXTINF:-1 group-title="Documentarios" tvg-logo="https://img2.gratispng.com/20180420/qie/kisspng-discovery-science-discovery-channel-discovery-hd-t-5ada3684467f87.6782942315242502442888.jpg",Discovery Science HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36922
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/32njYPj.png",Discovery Kids HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36923
+#EXTINF:-1 group-title="Documentarios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36924
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/0956PZG.png",Comedy Central HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36925
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/nlGx2t1.png",Cinemax HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36926
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/S5PsDDR.png",Cartoon Network HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36927
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg",AMC HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36928
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/7NKeRuh.png",A&E HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36929
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/xvZ66AU.png",Warner Channel HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36930
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/CZMldQu.png",Viva HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36931
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/Aag8ICV.png",Universal TV HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36932
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT Séries HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36933
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36934
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/849pB2j.png",Telecine Touch HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36935
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/aMWCWA0.png",Telecine Premium HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36936
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/lfOS7gF.png",Telecine Pipoca
+http://tv.factoryiptv.com:80/anaveloso/teste20/37038
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/Lx3R36Y.png",Telecine Pipoca HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36937
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/XvhwDTh.png",Telecine Cult
+http://tv.factoryiptv.com:80/anaveloso/teste20/37039
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/Lx3R36Y.png",Telecine Action
+http://tv.factoryiptv.com:80/anaveloso/teste20/37040
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/Lx3R36Y.png",Telecine Action HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36939
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/ltpUjbD.png",Telecine Fun HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36938
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/XHUoj3n.png",TBS HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36940
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/SAxzLi9.png",SporTV 3 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36942
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/v4TmPpc.png",SporTV 2 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36943
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/wP2GD1G.png",Space HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36944
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/3HzpWUY.png",SBT HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36945
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/HP5aXp6.png",RedeTV! HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36946
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere Clubes HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36948
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 5 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36949
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 4 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36950
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 3 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36951
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 2 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36952
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount Channel HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36953
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/WGoV3TD.png",Off HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36954
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png",National Geographic HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36956
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/yYmGNnQ.png",Multishow HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36957
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/HvbMaEP.png",Megapix HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36958
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://i.imgur.com/1nFjk1t.png",ID: Investigação Discovery HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36959
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://i.imgur.com/0oZXoaE.png",History HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36960
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://i.imgur.com/0oZXoaE.png",History 2 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36961
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/i89AzSA.png",HBO Signature HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36962
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/rjzeynR.png",HBO Plus HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36963
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/KOIo5EH.png",HBO HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36964
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/x2Enlmt.png",HBO Family HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36965
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/okiePBA.png",HBO 2 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36966
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/a4pnqAH.png",GNT HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36967
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/rRftyEP.png",Globo Rio HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36968
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/GaQZSu6.png",FX HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36969
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/bYUGfOo.png",ESPN4 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36970
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/150raP9.png",FoxSports 2 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36971
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/2crLuRM.png",Star Channel HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36972
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png",ESPN 3 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36976
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056",ESPN2 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36977
+#EXTINF:-1 group-title="Documentarios" tvg-logo="https://i.imgur.com/hGhgbMQ.png",Discovery World HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36981
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png",Discovery Turbo HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36982
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://i.imgur.com/VZH1x36.png",Discovery Theater HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36983
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://i.imgur.com/FJgwtT5.png",Discovery Home & Health
+http://tv.factoryiptv.com:80/anaveloso/teste20/36984
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://i.imgur.com/tUTV4Kl.png",Discovery Channel HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36985
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/5qo1Dyc.png",Combate HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36986
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/eHN8OeK.png",Sony Channel HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36987
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/JNP327k.png",BIS HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36988
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/zR3osZs.png",BandSports HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36989
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/6xouXln.png",Band HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36990
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/cAGSnn7.png",AXN HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36991
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://i.imgur.com/J1oK0xW.png",Animal Planet HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/36992
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BabyTV
+http://tv.factoryiptv.com:80/anaveloso/teste20/36993
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/aMWCWA0.png",Telecine Premium
+http://tv.factoryiptv.com:80/anaveloso/teste20/36994
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/849pB2j.png",Telecine Touch
+http://tv.factoryiptv.com:80/anaveloso/teste20/36995
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/ltpUjbD.png",Telecine Fun
+http://tv.factoryiptv.com:80/anaveloso/teste20/37005
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/xvZ66AU.png",Warner Channel
+http://tv.factoryiptv.com:80/anaveloso/teste20/36996
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/CZMldQu.png",Viva
+http://tv.factoryiptv.com:80/anaveloso/teste20/36997
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/oSZZKxP.png",TV Escola
+http://tv.factoryiptv.com:80/anaveloso/teste20/36999
+#EXTINF:-1 group-title="Religioso" tvg-logo="http://i.imgur.com/UOMWJH6.png",TV Aparecida
+http://tv.factoryiptv.com:80/anaveloso/teste20/37003
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/Lasl3ys.png",Terra Viva
+http://tv.factoryiptv.com:80/anaveloso/teste20/37004
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/SAxzLi9.png",SporTV 3
+http://tv.factoryiptv.com:80/anaveloso/teste20/37006
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/eHN8OeK.png",Sony Channel
+http://tv.factoryiptv.com:80/anaveloso/teste20/37007
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://i.imgur.com/yuEWxEV.png",Rede Vida HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/37011
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/HP5aXp6.png",RedeTV!
+http://tv.factoryiptv.com:80/anaveloso/teste20/37012
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://i.imgur.com/nDzoCw3.png",Rede Brasil
+http://tv.factoryiptv.com:80/anaveloso/teste20/37013
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/0MrTbLP.png",TV Ra Tim Bum
+http://tv.factoryiptv.com:80/anaveloso/teste20/37015
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere Clubes
+http://tv.factoryiptv.com:80/anaveloso/teste20/37016
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 7
+http://tv.factoryiptv.com:80/anaveloso/teste20/37017
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://i.imgur.com/SzRozG4.png",Canção Nova HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/37023
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/7FamS9P.png",Woohoo
+http://tv.factoryiptv.com:80/anaveloso/teste20/37025
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/Aag8ICV.png",Universal TV
+http://tv.factoryiptv.com:80/anaveloso/teste20/37027
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/n6a7ez8.png",TV TEM Sorocaba
+http://tv.factoryiptv.com:80/anaveloso/teste20/37029
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/qxeEe8p.png",TruTV
+http://tv.factoryiptv.com:80/anaveloso/teste20/37032
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/USRKuyc.png",Tooncast
+http://tv.factoryiptv.com:80/anaveloso/teste20/37033
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT Séries
+http://tv.factoryiptv.com:80/anaveloso/teste20/37034
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT
+http://tv.factoryiptv.com:80/anaveloso/teste20/37035
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://images.mi.tv/channels/br_tlc_m.png",TLC
+http://tv.factoryiptv.com:80/anaveloso/teste20/37036
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM
+http://tv.factoryiptv.com:80/anaveloso/teste20/37037
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/XHUoj3n.png",TBS
+http://tv.factoryiptv.com:80/anaveloso/teste20/37041
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/2lKk7Jw.png",Syfy
+http://tv.factoryiptv.com:80/anaveloso/teste20/37042
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/WnUlcx6.png",Studio Universal
+http://tv.factoryiptv.com:80/anaveloso/teste20/37043
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/v4TmPpc.png",SporTV 2
+http://tv.factoryiptv.com:80/anaveloso/teste20/37044
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/wP2GD1G.png",Space
+http://tv.factoryiptv.com:80/anaveloso/teste20/37046
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/3HzpWUY.png",SBT
+http://tv.factoryiptv.com:80/anaveloso/teste20/37048
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://i.imgur.com/I99RZ9n.png",Record News HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/37050
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/tjEoZDA.png",Prime Box Brazil
+http://tv.factoryiptv.com:80/anaveloso/teste20/37053
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 6
+http://tv.factoryiptv.com:80/anaveloso/teste20/37056
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 5
+http://tv.factoryiptv.com:80/anaveloso/teste20/37057
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 4
+http://tv.factoryiptv.com:80/anaveloso/teste20/37058
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 3
+http://tv.factoryiptv.com:80/anaveloso/teste20/37059
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 2
+http://tv.factoryiptv.com:80/anaveloso/teste20/37060
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount Channel
+http://tv.factoryiptv.com:80/anaveloso/teste20/37062
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/WGoV3TD.png",Off
+http://tv.factoryiptv.com:80/anaveloso/teste20/37063
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/ZjLSLiY.png",Nick
+http://tv.factoryiptv.com:80/anaveloso/teste20/37064
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/6vVmJJf.png",Nick Jr.
+http://tv.factoryiptv.com:80/anaveloso/teste20/37065
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png",National Geographic
+http://tv.factoryiptv.com:80/anaveloso/teste20/37068
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/ubp029X.png",Music Box Brazil
+http://tv.factoryiptv.com:80/anaveloso/teste20/37069
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/yYmGNnQ.png",Multishow
+http://tv.factoryiptv.com:80/anaveloso/teste20/37070
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/U6Rgjqs.png",MTV
+http://tv.factoryiptv.com:80/anaveloso/teste20/37071
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/HvbMaEP.png",Megapix
+http://tv.factoryiptv.com:80/anaveloso/teste20/37072
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/1hIuQoH.png",HBO POP
+http://tv.factoryiptv.com:80/anaveloso/teste20/37073
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/HeJPYl6.png",HBO Xtreme E
+http://tv.factoryiptv.com:80/anaveloso/teste20/37074
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/HeJPYl6.png",HBO Xtreme
+http://tv.factoryiptv.com:80/anaveloso/teste20/37075
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/RgOfJYg.png",HBO Mundi
+http://tv.factoryiptv.com:80/anaveloso/teste20/37076
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/tsFolbI.png",Lifetime
+http://tv.factoryiptv.com:80/anaveloso/teste20/37077
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://i.imgur.com/0oZXoaE.png",History
+http://tv.factoryiptv.com:80/anaveloso/teste20/37081
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/i89AzSA.png",HBO Signature
+http://tv.factoryiptv.com:80/anaveloso/teste20/37082
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/rjzeynR.png",HBO Plus E
+http://tv.factoryiptv.com:80/anaveloso/teste20/37083
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/rjzeynR.png",HBO Plus
+http://tv.factoryiptv.com:80/anaveloso/teste20/37084
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/x2Enlmt.png",HBO Family
+http://tv.factoryiptv.com:80/anaveloso/teste20/37085
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/okiePBA.png",HBO 2
+http://tv.factoryiptv.com:80/anaveloso/teste20/37086
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/a4pnqAH.png",GNT
+http://tv.factoryiptv.com:80/anaveloso/teste20/37088
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/mFDFUjt.png",Gloob
+http://tv.factoryiptv.com:80/anaveloso/teste20/37089
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/rRftyEP.png",Globo Rio
+http://tv.factoryiptv.com:80/anaveloso/teste20/37091
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/1Zb1lr8.png",RecordTV Rio HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63721
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://i.imgur.com/GIbRutN.png",GloboNews
+http://tv.factoryiptv.com:80/anaveloso/teste20/37093
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/ozxkJhG.png",Globo Brasília
+http://tv.factoryiptv.com:80/anaveloso/teste20/37095
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/GaQZSu6.png",FX
+http://tv.factoryiptv.com:80/anaveloso/teste20/37097
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/150raP9.png",FoxSports 2
+http://tv.factoryiptv.com:80/anaveloso/teste20/37098
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/bYUGfOo.png",ESPN4
+http://tv.factoryiptv.com:80/anaveloso/teste20/37099
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/NoyRFaw.png",Star Life
+http://tv.factoryiptv.com:80/anaveloso/teste20/37100
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://i.imgur.com/2crLuRM.png",Star Channel
+http://tv.factoryiptv.com:80/anaveloso/teste20/37101
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/bcdE7nj.png",Food Network
+http://tv.factoryiptv.com:80/anaveloso/teste20/37102
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/IroXP7H.png",Fish TV
+http://tv.factoryiptv.com:80/anaveloso/teste20/37103
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://bit.ly/2ICVj9U",ESPN
+http://tv.factoryiptv.com:80/anaveloso/teste20/37104
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://bit.ly/2GLHTrI",ESPN2
+http://tv.factoryiptv.com:80/anaveloso/teste20/37105
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/yN8C90X.png",E!
+http://tv.factoryiptv.com:80/anaveloso/teste20/37108
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/4KeieN7.png",Disney Channel
+http://tv.factoryiptv.com:80/anaveloso/teste20/37111
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png",Discovery Turbo
+http://tv.factoryiptv.com:80/anaveloso/teste20/37112
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/32njYPj.png",Discovery Kids
+http://tv.factoryiptv.com:80/anaveloso/teste20/37113
+#EXTINF:-1 group-title="Documentarios" tvg-logo="https://i.imgur.com/7wEq3VK.png",ID: Investigação Discovery
+http://tv.factoryiptv.com:80/anaveloso/teste20/37114
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://i.imgur.com/FJgwtT5.png",Discovery Home & Health HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/37115
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://i.imgur.com/tUTV4Kl.png",Discovery Channel
+http://tv.factoryiptv.com:80/anaveloso/teste20/37116
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/IlzIxvv.png",Curta!
+http://tv.factoryiptv.com:80/anaveloso/teste20/37117
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/0956PZG.png",Comedy Central
+http://tv.factoryiptv.com:80/anaveloso/teste20/37118
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/5qo1Dyc.png",Combate
+http://tv.factoryiptv.com:80/anaveloso/teste20/37119
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",Cinemax
+http://tv.factoryiptv.com:80/anaveloso/teste20/37120
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/S5PsDDR.png",Cartoon Network
+http://tv.factoryiptv.com:80/anaveloso/teste20/37121
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/8NoMJrr.png",Canal Brasil
+http://tv.factoryiptv.com:80/anaveloso/teste20/37122
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/6eZoxoi.png",Cartoonito
+http://tv.factoryiptv.com:80/anaveloso/teste20/37123
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/zR3osZs.png",BandSports
+http://tv.factoryiptv.com:80/anaveloso/teste20/37125
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://i.imgur.com/ibNTVbR.png",BandNews
+http://tv.factoryiptv.com:80/anaveloso/teste20/37126
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/6xouXln.png",Band
+http://tv.factoryiptv.com:80/anaveloso/teste20/37127
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://i.imgur.com/J1oK0xW.png",Animal Planet
+http://tv.factoryiptv.com:80/anaveloso/teste20/37128
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/7NKeRuh.png",A&E
+http://tv.factoryiptv.com:80/anaveloso/teste20/37130
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/JNP327k.png",BIS
+http://tv.factoryiptv.com:80/anaveloso/teste20/37131
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/cAGSnn7.png",AXN
+http://tv.factoryiptv.com:80/anaveloso/teste20/37132
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/uHwATw4.png",Arte 1
+http://tv.factoryiptv.com:80/anaveloso/teste20/37133
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/3ynzR93.png",SporTV HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/37255
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/3ynzR93.png",SporTV
+http://tv.factoryiptv.com:80/anaveloso/teste20/37256
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/KC9T8wA.png",Gloobinho HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/38969
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/M43oOmn.png",ESPN Extra HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/42910
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/IroXP7H.png",Fish TV HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/42911
+#EXTINF:-1 group-title="Documentarios" tvg-logo="http://i.imgur.com/0oZXoaE.png",History 2
+http://tv.factoryiptv.com:80/anaveloso/teste20/42915
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/zR3osZs.png",BandSports
+http://tv.factoryiptv.com:80/anaveloso/teste20/50613
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/7NKeRuh.png",A&E [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50628
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg",AMC HD  [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50639
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg",AMC [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50640
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/uHwATw4.png",Arte 1 [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50643
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png",Canal do Boi
+http://tv.factoryiptv.com:80/anaveloso/teste20/50645
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BABY TV HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50648
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BABY TV [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50649
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/ibNTVbR.png",BandNews HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50654
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/ibNTVbR.png",BandNews [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50655
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/7ItcMOv.jpg",BAND SPORTS [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50657
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/SzRozG4.png",CANCAO NOVA [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50665
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.pinimg.com/originals/a8/2b/83/a82b8391d267db1667978dc58413a018.png",CINEMAX HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50669
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/0956PZG.png",COMEDY CENTRAL HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50674
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/IlzIxvv.png",CURTA [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50676
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/tUTV4Kl.png",DISCOVERY CHANNEL HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50691
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/FJgwtT5.png",DISCOVERY HOME & HELTH [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50705
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/32njYPj.png",DISCOVERY KIDS HD  [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50706
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/32njYPj.png",DISCOVERY KIDS [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50707
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://urlcurta.ml/qyAyP",DISCOVERY SCIENCE HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50708
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/VZH1x36.png",DISCOVERY THEATER HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50709
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50710
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50711
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/hGhgbMQ.png",DISCOVERY WORLD HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50712
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png",ESPN3 HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50734
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/u11qaVb.png",ESPN HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50736
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056",ESPN2 HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50739
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg",FOOD NETWORK HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50742
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/NoyRFaw.png",Star Life HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50748
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/GaQZSu6.png",FX HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50770
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/mFDFUjt.png",GLOOB HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50773
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/a4pnqAH.png",GNT HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50775
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/a4pnqAH.png",GNT [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50781
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/0oZXoaE.png",H2 HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50786
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/0oZXoaE.png",H2 [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50787
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/okiePBA.png",HBO 2 HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50788
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/x2Enlmt.png",HBO FAMILY [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50791
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://t.likeiptv.com/hbohd.png",HBO HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50792
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/rjzeynR.png",HBO PLUS *E [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50793
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/7wEq3VK.png",INVESTIGACAO DISCOVERY HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50803
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/tsFolbI.png",LIFETIME HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50829
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/tsFolbI.png",LIFETIME [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50834
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/ozxkJhG.png",MAIS GLOBOSAT HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50836
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/1hIuQoH.png",HBO POP HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50851
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/1hIuQoH.png",HBO POP [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50852
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png",NATGEO HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50902
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/ZjLSLiY.png",NICKELODEON [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50935
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 5 [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50984
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 7 HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/50987
+#EXTINF:-1 group-title="Documentarios" tvg-logo="https://img2.gratispng.com/20180420/qie/kisspng-discovery-science-discovery-channel-discovery-hd-t-5ada3684467f87.6782942315242502442888.jpg",Discovery Science
+http://tv.factoryiptv.com:80/anaveloso/teste20/51002
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/I99RZ9n.png",RECORD NEWS [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/51009
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/HP5aXp6.png",REDE TV [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/51024
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/yuEWxEV.png",REDE VIDA [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/51032
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/3HzpWUY.png",SBT [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/51044
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/dnjAv2m.png",SPORTV 2 [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/51052
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/Lx3R36Y.png",TELECINE CULT HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/51085
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/Lx3R36Y.png",TELECINE PIPOCA [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/51090
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/Lx3R36Y.png",TELECINE PREMIUM HD [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/51104
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 8
+http://tv.factoryiptv.com:80/anaveloso/teste20/54120
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://www.jota.info/wp-content/uploads/2018/01/1502123023_2017-08-07_tvjustica-1024x725.jpg",TV Justiça
+http://tv.factoryiptv.com:80/anaveloso/teste20/56402
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/7c11e5cb-74bb-424f-995d-8b27bee18a31/smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png",Smithsonian Channel HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/57387
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/7c11e5cb-74bb-424f-995d-8b27bee18a31/smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png",Smithsonian Channel
+http://tv.factoryiptv.com:80/anaveloso/teste20/57388
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://www.tvideonews.com.br/gallery_gen/e8799046fa884df3e56cd9355c991f1a_275.75466036592x320.png",TVídeoNews
+http://tv.factoryiptv.com:80/anaveloso/teste20/57777
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://1.bp.blogspot.com/-YgtXht1k-tQ/XeW9wL0JZbI/AAAAAAAAHmI/sop7jbLV3EE-roMwEj4C3u3q1EwRhljYwCLcBGAsYHQ/s1600/tv%2Bdiario.png",TV Diário Fortaleza
+http://tv.factoryiptv.com:80/anaveloso/teste20/58090
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://1.bp.blogspot.com/-YgtXht1k-tQ/XeW9wL0JZbI/AAAAAAAAHmI/sop7jbLV3EE-roMwEj4C3u3q1EwRhljYwCLcBGAsYHQ/s1600/tv%2Bdiario.png",TV Diário Fortaleza HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/58091
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/0l37eVA.jpg",DAZN 1 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/58130
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/0l37eVA.jpg",DAZN 2 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/58433
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://i.imgur.com/Mki3wiO.jpg",RIT
+http://tv.factoryiptv.com:80/anaveloso/teste20/59354
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://static.wixstatic.com/media/b50f5a_ed7e03eea6314b228861287579e00aa9.png",Zoomoo
+http://tv.factoryiptv.com:80/anaveloso/teste20/59355
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",Gazeta HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/60201
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo.png",Polishop TV
+http://tv.factoryiptv.com:80/anaveloso/teste20/61690
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/ledljQn.jpg",Esporte Interativo HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/61879
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png",Cultura HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/61961
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/6xouXln.png",Band Rio HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/62088
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://i.imgur.com/aqzfRU0.jpg",Rede Super
+http://tv.factoryiptv.com:80/anaveloso/teste20/62091
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://aachost.com/wp-content/uploads/2017/12/logo_web_tv.png",Web TV Água Boa
+http://tv.factoryiptv.com:80/anaveloso/teste20/62130
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png",TV Brasil
+http://tv.factoryiptv.com:80/anaveloso/teste20/62133
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="https://i.imgur.com/LYcsHBm.png",Câmeras Ao Vivo | Tigres - San Diego Zoo
+http://tv.factoryiptv.com:80/anaveloso/teste20/62233
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="https://i.imgur.com/LYcsHBm.png",Câmeras Ao Vivo | Elefantes - San Diego Zoo
+http://tv.factoryiptv.com:80/anaveloso/teste20/62234
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="https://i.imgur.com/LYcsHBm.png",Câmeras Ao Vivo | Pinguins - San Diego Zoo
+http://tv.factoryiptv.com:80/anaveloso/teste20/62235
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="https://i.imgur.com/LYcsHBm.png",Câmeras Ao Vivo | Aspen Mountain
+http://tv.factoryiptv.com:80/anaveloso/teste20/62270
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://is.gd/66MqME",GloboEsporte.com
+http://tv.factoryiptv.com:80/anaveloso/teste20/62271
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/k3Ic3Mo.png",ESPN 3
+http://tv.factoryiptv.com:80/anaveloso/teste20/62745
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/primebox.png",PREMIERE CLUBES [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/63092
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/primebox.png",PREMIERE CLUBES HD [Alternativo]
+http://tv.factoryiptv.com:80/anaveloso/teste20/63093
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV [V2]
+http://tv.factoryiptv.com:80/anaveloso/teste20/63094
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV HD [Alternativo]
+http://tv.factoryiptv.com:80/anaveloso/teste20/63095
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/Rmrk8Ww.jpg",DAZN 01 HD (A)
+http://tv.factoryiptv.com:80/anaveloso/teste20/63112
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/Rmrk8Ww.jpg",DAZN 02 HD (A)
+http://tv.factoryiptv.com:80/anaveloso/teste20/63113
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/nPTcquW.jpg",DAZN 03 HD (A)
+http://tv.factoryiptv.com:80/anaveloso/teste20/63115
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 04 HD (A)
+http://tv.factoryiptv.com:80/anaveloso/teste20/63116
+http://tv.factoryiptv.com:80/anaveloso/teste20/63211
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://canalrural.uol.com.br/wp-content/uploads/2018/08/canal_rural.png",Canal Rural
+http://tv.factoryiptv.com:80/anaveloso/teste20/63217
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV  | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63219
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/wP2GD1G.png",SPACE  | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63220
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/0oZXoaE.png",H2  | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63221
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="https://i.imgur.com/NoyRFaw.png",Star Life  | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63223
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/S5PsDDR.png",Cartoon Network  | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63224
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/cAGSnn7.png",AXN   | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63225
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png",NatGeo  | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63227
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/WnUlcx6.png",STUDIO UNIVERSAL  | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63228
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="https://i.imgur.com/hGhgbMQ.png",DISCOVERY WORLD  | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63230
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/6xouXln.png",BAND | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63232
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="https://i.imgur.com/6eZoxoi.png",Cartoonito | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63233
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/tUTV4Kl.png",DISCOVERY CHANNEL | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63234
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png",Discovery Turbo | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63235
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/4KeieN7.png",DISNEY CHANNEL | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63236
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="https://i.imgur.com/k3Ic3Mo.png",ESPN3 | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63239
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg",FILM ARTS | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63240
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg",FOOD NETWORK | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63241
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/rjzeynR.png",HBO PLUS | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63244
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/5s5gHix.png",LIFE TIME | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63245
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/U6Rgjqs.png",MTV | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63247
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/yYmGNnQ.png",MULTISHOW | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63248
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/yScrn6s.png",PARAMOUNT | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63249
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/eHN8OeK.png",CANAL SONY | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63250
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/XHUoj3n.png",TBS | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63251
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/849pB2j.png",Telecine Touch | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63252
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT SERIES | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63253
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/uHwATw4.png",ARTE 1 | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63255
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/J1oK0xW.png",ANIMAL PLANET | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63256
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/7NKeRuh.png",A&E | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63257
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/0956PZG.png",COMEDY | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63258
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://images.mi.tv/channels/br_tlc_m.png",TLC | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63259
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/VhQUWnY.png",TNT | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63260
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="https://4.bp.blogspot.com/-2CwDjeJXwlc/Whg9i0MBY7I/AAAAAAAABXI/Qt16RTfb3potQaf4rl8fDNuLzqdtexpqgCLcBGAs/s1600/woohoo.png",WOHOO | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63261
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/JNP327k.png",BIS | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63262
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO HD 2 | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63263
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/ZjLSLiY.png",NICKLODEON | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63264
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="https://i.imgur.com/XvhwDTh.png",TELECINE CULT | Dual Áudio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63265
+#EXTINF:-1 group-title="Documentarios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV
+http://tv.factoryiptv.com:80/anaveloso/teste20/63272
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/x2Enlmt.png",HBO Family | Dual Audio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63308
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/HvbMaEP.png",MegaPix | Dual Audio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63309
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/Lx3R36Y.png",Telecine Pipoca | Dual Audio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63311
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/VZH1x36.png",Discovery Theater | Dual Audio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63312
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="https://img2.gratispng.com/20180420/qie/kisspng-discovery-science-discovery-channel-discovery-hd-t-5ada3684467f87.6782942315242502442888.jpg",Discovery Science | Dual Audio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63313
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="https://i.imgur.com/hGhgbMQ.png",Discovery World | Dual Audio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63314
+#EXTINF:-1 group-title="Dual Audio" tvg-logo="http://i.imgur.com/GaQZSu6.png",FX | Dual Audio
+http://tv.factoryiptv.com:80/anaveloso/teste20/63316
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ideal_TV_logo.svg/986px-Ideal_TV_logo.svg.png",Ideal TV
+http://tv.factoryiptv.com:80/anaveloso/teste20/63404
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b885dddf8d0e990d24c4a3fae05c4194.png",NHK World Japan
+http://tv.factoryiptv.com:80/anaveloso/teste20/63408
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b885dddf8d0e990d24c4a3fae05c4194.png",NHK World Japan HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63409
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/DYfqza2.png",PlayTV
+http://tv.factoryiptv.com:80/anaveloso/teste20/63410
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/DYfqza2.png",PlayTV HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63411
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/6eZoxoi.png",Cartoonito HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63627
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/ozxkJhG.png",Mais GloboSat
+http://tv.factoryiptv.com:80/anaveloso/teste20/63629
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://i.imgur.com/SzRozG4.png",Canção Nova
+http://tv.factoryiptv.com:80/anaveloso/teste20/63630
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png",TV Brasil HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63632
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BabyTV HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63634
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/8NoMJrr.png",Canal Brasil HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63636
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/uHwATw4.png",Arte 1 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63637
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63644
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/IlzIxvv.png",Curta! HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63646
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/USRKuyc.png",Tooncast HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63647
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png",TruTV HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63649
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://i.imgur.com/ubp029X.png",Music Box Brazil HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63651
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-senado-logo.png",TV Senado HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63665
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://2.bp.blogspot.com/-eTHPGWTUg9o/VZqm99-Xj6I/AAAAAAAAaqQ/P8yHYrRNAzE/s1600/logo_ei_max.png",EI MAX 01
+http://tv.factoryiptv.com:80/anaveloso/teste20/63682
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://2.bp.blogspot.com/-eTHPGWTUg9o/VZqm99-Xj6I/AAAAAAAAaqQ/P8yHYrRNAzE/s1600/logo_ei_max.png",EI MAX 02
+http://tv.factoryiptv.com:80/anaveloso/teste20/63683
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://i.imgur.com/7WwFmPr.png",TV Tribuna ES HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63691
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ac/Tv-taroba-logo.png",TV Taroba HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63696
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/KC9T8wA.png",Gloobinho
+http://tv.factoryiptv.com:80/anaveloso/teste20/63720
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png",DogTV HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63767
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",FashionTV Brasil HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63769
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://static.wixstatic.com/media/b50f5a_ed7e03eea6314b228861287579e00aa9.png",Zoomoo HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63779
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Shoptime_logo.svg/1280px-Shoptime_logo.svg.png",Shoptime HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63783
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png",Sic TV
+http://tv.factoryiptv.com:80/anaveloso/teste20/63784
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/0MrTbLP.png",TV Ra Tim Bum HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/63786
+#EXTINF:-1 group-title="Documentarios" tvg-logo="https://i.imgur.com/hGhgbMQ.png",Discovery World
+http://tv.factoryiptv.com:80/anaveloso/teste20/64498
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://i.imgur.com/7qMHeln.png",TV Pai Eterno HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/64548
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_InterTV.png",InterTV Cabo Frio HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/64591
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://1.bp.blogspot.com/-YgtXht1k-tQ/XeW9wL0JZbI/AAAAAAAAHmI/sop7jbLV3EE-roMwEj4C3u3q1EwRhljYwCLcBGAsYHQ/s1600/tv%2Bdiario.png",TV Diário HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/64613
+#EXTINF:-1 group-title="Premiere" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 8 HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/64657
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png",TV Cultura PA HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/64660
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OvgIyfLDL.png",Red Bull TV
+http://tv.factoryiptv.com:80/anaveloso/teste20/64672
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="https://i.imgur.com/znq3hoQ.jpg",Câmeras Ao Vivo | Barra da Tijuca
+http://tv.factoryiptv.com:80/anaveloso/teste20/64758
+http://tv.factoryiptv.com:80/anaveloso/teste20/64785
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/4KeieN7.png",Disney Channel
+http://tv.factoryiptv.com:80/anaveloso/teste20/64786
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://www.folhape.com.br/obj/10/363520,475,80,0,0,475,365,0,0,0,0.png",Facebook Watch
+http://tv.factoryiptv.com:80/anaveloso/teste20/64989
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg",Film&Arts HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/68536
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://i.imgur.com/yuEWxEV.png",Rede Vida
+http://tv.factoryiptv.com:80/anaveloso/teste20/68533
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://i.imgur.com/tjEoZDA.png",Prime Box Brazil HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/68532
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png",Futura HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/68530
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png",DogTV
+http://tv.factoryiptv.com:80/anaveloso/teste20/68529
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png",Canal do Boi HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/68528
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png",FashionTV Brasil
+http://tv.factoryiptv.com:80/anaveloso/teste20/68527
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TravelBoxBrazillogoatualizado.png",Travel Box Brazil
+http://tv.factoryiptv.com:80/anaveloso/teste20/68526
+#EXTINF:-1 group-title="Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TravelBoxBrazillogoatualizado.png",Travel Box Brazil HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/68525
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://i.imgur.com/Y2ncDiz.png",TV Novo Tempo HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/68524
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://i.imgur.com/7qMHeln.png",TV Pai Eterno
+http://tv.factoryiptv.com:80/anaveloso/teste20/68523
+#EXTINF:-1 group-title="Conmebol" tvg-logo="https://i.imgur.com/Isb9y7x.png",CONMEBOL 04 (J)
+http://tv.factoryiptv.com:80/anaveloso/teste20/75603
+#EXTINF:-1 group-title="Conmebol" tvg-logo="https://i.imgur.com/Isb9y7x.png",CONMEBOL 03 (J)
+http://tv.factoryiptv.com:80/anaveloso/teste20/75602
+#EXTINF:-1 group-title="Conmebol" tvg-logo="https://i.imgur.com/Isb9y7x.png",CONMEBOL 02 (J)
+http://tv.factoryiptv.com:80/anaveloso/teste20/75601
+#EXTINF:-1 group-title="Conmebol" tvg-logo="https://i.imgur.com/Isb9y7x.png",CONMEBOL 01 (J)
+http://tv.factoryiptv.com:80/anaveloso/teste20/75600
+#EXTINF:-1 group-title="Abertos" tvg-logo="blob:https://imgur.com/7f6a85f0-076b-4052-8a43-42c1ff3aa05d",TV Brusque
+http://tv.factoryiptv.com:80/anaveloso/teste20/75658
+http://tv.factoryiptv.com:80/movie/anaveloso/teste20/81003.mp4
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://i.imgur.com/Mki3wiO.jpg",Rede 21
+http://tv.factoryiptv.com:80/anaveloso/teste20/81020
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://i.imgur.com/Mki3wiO.jpg",RIT TV HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/81019
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/50cg2k5.png",CNN Espanhol
+http://tv.factoryiptv.com:80/anaveloso/teste20/81018
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/MhT0ccV.png",CNN Internacional
+http://tv.factoryiptv.com:80/anaveloso/teste20/81017
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 10 (S)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81016
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 9 (S)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81015
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 8 (S)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81014
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 7 (S)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81013
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 6 (S)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81012
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 5 (S)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81011
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 4 (S)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81010
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 3 (S)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81009
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 2 (S)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81008
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/RBZYQfH.png",Eleven Sports Channel 1 (S)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81007
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/voSakBr.png",TV NSPORTS 3 (S)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81006
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/voSakBr.png",TV NSPORTS 2 (S)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81005
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.imgur.com/voSakBr.png",TV NSPORTS 1 (S)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81004
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/lfOS7gF.png",TELECINE PIPOCA HD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81778
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/lfOS7gF.png",TELECINE PIPOCA FHD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81777
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/aMWCWA0.png",TELECINE PREMIUM FHD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81779
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/aMWCWA0.png",TELECINE PREMIUM HD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81780
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/Lx3R36Y.png",TELECINE ACTION FHD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81781
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/Lx3R36Y.png",TELECINE ACTION HD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81782
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/849pB2j.png",TELECINE TOUCH FHD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81783
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/849pB2j.png",TELECINE TOUCH HD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81784
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/ltpUjbD.png",TELECINE FUN FHD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81785
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/ltpUjbD.png",TELECINE FUN HD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81786
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/CHaWCed.png",TELECINE CULT FHD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81787
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/CHaWCed.png",TELECINE CULT HD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81788
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/KOIo5EH.png",HBO FHD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81789
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/KOIo5EH.png",HBO HD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81790
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/rjzeynR.png",HBO PLUS FHD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81791
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/rjzeynR.png",HBO PLUS HD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81792
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/i89AzSA.png",HBO SIGNATURE FHD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81793
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/i89AzSA.png",HBO SIGNATURE HD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81794
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/i89AzSA.png",HBO MUNDI FHD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81795
+#EXTINF:-1 group-title="Legendado" tvg-logo="https://i.imgur.com/RgOfJYg.png",HBO MUNDI HD ( LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81796
+#EXTINF:-1 group-title="Legendado" tvg-logo="https://i.imgur.com/1hIuQoH.png",HBO POP FHD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81797
+#EXTINF:-1 group-title="Legendado" tvg-logo="https://i.imgur.com/1hIuQoH.png",HBO POP HD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81798
+#EXTINF:-1 group-title="Legendado" tvg-logo="https://i.imgur.com/HeJPYl6.png",HBO XTREME FHD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81799
+#EXTINF:-1 group-title="Legendado" tvg-logo="https://i.imgur.com/HeJPYl6.png",HBO XTREAM HD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81800
+#EXTINF:-1 group-title="Legendado" tvg-logo="D",STAR CHANNEL FHD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81801
+#EXTINF:-1 group-title="Legendado" tvg-logo="S",STAR CHANNEL HD
+http://tv.factoryiptv.com:80/anaveloso/teste20/81802
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/cAGSnn7.png",AXN FHD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81803
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/cAGSnn7.png",AXN HD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81804
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/2lKk7Jw.png",SYFY HD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81814
+#EXTINF:-1 group-title="Legendado" tvg-logo="http://i.imgur.com/VZH1x36.png",DISCOVERY THEATER HD (LEG)
+http://tv.factoryiptv.com:80/anaveloso/teste20/81812
