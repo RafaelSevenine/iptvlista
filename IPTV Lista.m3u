@@ -16,7 +16,7 @@ http://ultraxtreme.net:8000/Francisco/Francisco2022/869073
 #EXTINF:-1 tvg-id="BabyTVLatinAmerica.uk" tvg-name="Baby TV (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/Baby_TV.png" group-title="BRASIL",Baby TV (BR)
 http://ultraxtreme.net:8000/Francisco/Francisco2022/869074
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/band_news.png" group-title="BRASIL",Band (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869075
+http://187.33.200.246:8888/http/005
 #EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/band_sports.png" group-title="BRASIL",Band News (BR)
 http://ultraxtreme.net:8000/Francisco/Francisco2022/869076
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/band_sports.png" group-title="BRASIL",Band Sports (BR)
@@ -82,7 +82,7 @@ http://ultraxtreme.net:8000/Francisco/Francisco2022/869106
 #EXTINF:-1 tvg-id="CinemaxBrasil.br" tvg-name="Cinemax (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/cinemax.png" group-title="BRASIL",Cinemax (BR)
 http://ultraxtreme.net:8000/Francisco/Francisco2022/869107
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil (BR)" tvg-logo="http://caxpar.com:8080/logos/logos_canales/latinos/cnn_espanol.png" group-title="BRASIL",CNN Brasil (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869108
+http://212.102.60.39:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/2022/07/04/03/20/43-05005.ts?token=RED_79Edxvj-NIm91NEpmJm2kQ%3D%3D%2C1656801488.7742152032
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-name="CNT (BR)" tvg-logo="" group-title="BRASIL",CNT (BR)
 http://ultraxtreme.net:8000/Francisco/Francisco2022/869109
 #EXTINF:-1 tvg-id="" tvg-name="Com Brasil (BR)" tvg-logo="" group-title="BRASIL",Com Brasil (BR)
@@ -183,12 +183,10 @@ http://ultraxtreme.net:8000/Francisco/Francisco2022/869160
 http://ultraxtreme.net:8000/Francisco/Francisco2022/869161
 #EXTINF:-1 tvg-id="" tvg-name="Gazeta SP (BR)" tvg-logo="" group-title="BRASIL",Gazeta SP (BR)
 http://ultraxtreme.net:8000/Francisco/Francisco2022/869162
-#EXTINF:-1 tvg-id="" tvg-name="Globo Mt Tv Centro America (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/globo.webp" group-title="BRASIL",Globo Mt Tv Centro America (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869180
 #EXTINF:-1 tvg-id="" tvg-name="Globo News (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/globo.webp" group-title="BRASIL",Globo News (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869182
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rj Capital (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/globo.webp" group-title="BRASIL",Globo Rj Capital (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869186
+http://212.102.60.39:2200/BR/Globo_News_HD-br/index.m3u8?token=RED_79Edxvj-NIm91NEpmJm2kQ==,1656801488.7742152032
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/globo.webp" group-title="BRASIL",Globo Rj Capital (BR)
+http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globosat (BR)" tvg-logo="" group-title="BRASIL",Globosat (BR)
 http://ultraxtreme.net:8000/Francisco/Francisco2022/869203
 #EXTINF:-1 tvg-id="" tvg-name="Gloob (BR)" tvg-logo="" group-title="BRASIL",Gloob (BR)
@@ -268,9 +266,9 @@ http://ultraxtreme.net:8000/Francisco/Francisco2022/869242
 #EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Prime%20Box%20Brazil.webp" group-title="BRASIL",Prime Box Brazil (BR)
 http://ultraxtreme.net:8000/Francisco/Francisco2022/869243
 #EXTINF:-1 tvg-id="" tvg-name="Record News (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/record.webp" group-title="BRASIL",Record News (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869249
+https://rnw-rn.otteravision.com:443
 #EXTINF:-1 tvg-id="" tvg-name="Record RJ (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/record.webp" group-title="BRASIL",Record RJ (BR)
-http://ultraxtreme.net:8000/Francisco/Francisco2022/869250
+https://sinalpublico.com:443
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Rede%20Brasil.webp" group-title="BRASIL",Rede Brasil (BR)
 http://ultraxtreme.net:8000/Francisco/Francisco2022/869252
 #EXTINF:-1 tvg-id="" tvg-name="Rede Família (BR)" tvg-logo="http://caxpar.com:8080/logos/BRASIL/Rede%20Fam%C3%ADlia.png" group-title="BRASIL",Rede Família (BR)
